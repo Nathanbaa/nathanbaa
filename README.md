@@ -2,6 +2,7 @@
 
 
 ### 🤗 &nbsp;À propos
+<hr>
 
 En formation dans le domaine du web depuis presque 3 ans :
 - 2 années de formation “Développeur Intégrateur de Médias Interactifs” au FIM CCI Normandie à Saint-Lô.
