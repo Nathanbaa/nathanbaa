@@ -30,7 +30,7 @@ Je suis souriant😁, motivé👊 et rigoureux✨ !
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20ILLUSTRATOR-FF9A00?logo=adobeillustrator&logoColor=ffffff)&nbsp;
 ![ADOBE AFTER EFFECTS](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-9999FF?logo=adobeaftereffects&logoColor=ffffff)&nbsp;
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?logo=adobexd&logoColor=ffffff)&nbsp;
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 
 
 
