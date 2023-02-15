@@ -35,6 +35,6 @@ Je suis souriant😁, motivé👊 et rigoureux✨ !
 
 ### 🔗 &nbsp;Mes liens
 
-<a href="https://nathanba.fr/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-00A98F?logo=about.me&logoColor=ffffff"/></a>
+<a href="https://nathanba.fr/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-00A98F?logo=about.me&logoColor=fefefe"/></a>
 <a href="https://www.linkedin.com/in/nathan-bastard-457172212/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedIn&logoColor=ffffff"/></a>
-<p><img src="https://img.shields.io/badge/-DISCORD-5865F2?logo=discord&logoColor=ffffff"/> → Natch0s#8387</p>
+<p><img src="https://img.shields.io/badge/-DISCORD-5865F2?logo=discord&logoColor=ffffff"/> ➞ Natch0s#8387</p>
