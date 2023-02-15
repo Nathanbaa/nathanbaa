@@ -21,6 +21,7 @@ Je suis souriant😁, motivé👊 et rigoureux✨ !
 <br>
 
 ### 💻 &nbsp;Langages de programmation & outils
+<hr>
 
 ![HTML5](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)&nbsp;
@@ -41,6 +42,7 @@ Je suis souriant😁, motivé👊 et rigoureux✨ !
 <br>
 
 ### 🔗 &nbsp;Mes liens
+<hr>
 
 <a href="https://nathanba.fr/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-00A98F?logo=about.me&logoColor=fefefe"/></a>
 <a href="https://www.linkedin.com/in/nathan-bastard-457172212/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedIn&logoColor=ffffff"/></a>
