@@ -8,10 +8,10 @@ En formation dans le domaine du web depuis presque 3 ans :
 - 2 années de formation “Développeur Intégrateur de Médias Interactifs” au FIM CCI Normandie à Saint-Lô.
 - Puis quelques mois supplémentaires via la plateforme Udemy.
 
-À travers ces différentes formations, je me suis pris de passion pour **le web design** et **la création de sites web**.
-C’est pourquoi je suis actuellement à la recherche d’expériences professionnelles (stage d’immersion, cdd, cdi) en tant que **développeur web** (**front-end** de préférence).
+À travers ces différentes formations, je me suis pris de passion pour ***le web design*** et ***la création de sites web***.
+C’est pourquoi je suis actuellement à la recherche d’expériences professionnelles (stage d’immersion, cdd, cdi) en tant que ***développeur web*** (***front-end*** de préférence).
 
-Je suis **souriant**😁, **motivé**👊 et **rigoureux**✨ ! 
+Je suis ***souriant***😁, ***motivé***👊 et ***rigoureux***✨ ! 
 
 <br>
 
