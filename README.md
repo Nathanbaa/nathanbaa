@@ -12,7 +12,7 @@ C’est pourquoi je suis actuellement à la recherche d’expériences professio
 
 Je suis souriant😁, motivé👊 et rigoureux✨ ! 
 
-
+<br>
 
 ✉️ &nbsp;Vous pouvez me contacter par email ➞ contact.nathanbastard@gmail.com
 
