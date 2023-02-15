@@ -1,5 +1,6 @@
 <h2> Salut🙋‍♂️ je m'appelle Nathan Bastard (nathanba / Natch0s) </h2>
 
+
 ### 🤗 &nbsp;À propos
 
 En formation dans le domaine du web depuis presque 3 ans :
@@ -10,6 +11,8 @@ En formation dans le domaine du web depuis presque 3 ans :
 C’est pourquoi je suis actuellement à la recherche d’expériences professionnelles (stage d’immersion, cdd, cdi) en tant que développeur web (front-end de préférence).
 
 Je suis souriant😁, motivé👊 et rigoureux✨ ! 
+
+
 
 ✉️ &nbsp;Vous pouvez me contacter par email ➞ contact.nathanbastard@gmail.com
 
