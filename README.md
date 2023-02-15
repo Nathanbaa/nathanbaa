@@ -12,7 +12,7 @@ C’est pourquoi je suis actuellement à la recherche d’expériences professio
 Je suis souriant😁, motivé👊 et rigoureux✨ ! 
 
 ✉️ &nbsp;Vous pouvez me contacter par email ➞ contact.nathanbastard@gmail.com
-
+<br>
 
 ### 💻 &nbsp;Langages de programmation & outils
 
@@ -32,7 +32,7 @@ Je suis souriant😁, motivé👊 et rigoureux✨ !
 ![ADOBE XD](https://img.shields.io/badge/-ADOBE%20XD-FF61F6?logo=adobexd&logoColor=ffffff)&nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 
-
+<br>
 
 ### 🔗 &nbsp;Mes liens
 
