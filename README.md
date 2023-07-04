@@ -1,4 +1,4 @@
-<h2> Salut🙋‍♂️ je m'appelle Nathan Bastard (nathanba / Natch0s) </h2>
+<h2> Salut🙋‍♂️ je m'appelle Nathan (nathanba / Natch0s) </h2>
 
 
 ### 🤗 &nbsp;À propos
